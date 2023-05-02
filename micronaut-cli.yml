@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.rapidpm
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, graalvm, http-client, jackson-databind, java, java-application, jib, junit, log4j2, maven, microstream, microstream-rest, netty-server, properties, readme, shade, testcontainers]
